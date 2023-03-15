@@ -1,0 +1,156 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.top-container {
+    position: relative;
+    background-image: url(/images/man.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 250px;    
+}
+.box {
+    color: #ffffff;
+}
+.email {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+h1 {
+    letter-spacing: 2pt;
+    font-size: 50px;
+    padding-top: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 1px;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.btn {
+    opacity: 1;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    background: #e03131;
+    padding: 10px 26px 10px 26px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #000000;
+    text-decoration: none;
+  }
+
+  .middle-container {
+    background-color: #ffffff;
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 460px;
+
+  }
+  
+  .suitcase {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .boxes {
+    height: 100px;
+    width: 100px;
+  }
+
+  .data {
+    height: 100px;
+    width: 100px;
+  }
+
+  .element1 {
+    position: absolute;
+    display: inline-block;
+    height: 150px;
+    width: 25%;
+    left: 10%;
+  }
+
+  .element2 {
+    position: absolute;
+    display: inline-block;
+    height: 150px;
+    width: 25%;
+    left: 37.5%;
+  }
+
+  .element3 {
+    position: absolute;
+    display: inline-block;
+    height: 150px;
+    width: 25%;
+    right: 10%;
+
+  }
+.bottom-container {
+    background-color: #100a35;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 600px;
+}
+
+h4 {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+  .services {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    display: inline-block;
+    height: 150px;
+    width: 40%;
+    left: 10%;
+    text-align: left;
+  }
+
+  .btn2 {
+    opacity: 1;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #e03131;
+    padding: 15px 31px 15px 31px;
+    text-decoration: none;
+  }
+
+  .mag { 
+    height: 150px;
+    display: inline-block;
+    right: 10%;
+    position: absolute;
+    padding-top: 5%;
+  }
+  .magazine {
+    width: 400px;
+    height: 300px;
+}
